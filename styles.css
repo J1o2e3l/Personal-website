@@ -42,7 +42,7 @@ p{
 }
 h3{
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   margin-left: 20px;
 
 }
@@ -178,12 +178,4 @@ a:hover{
  font-size: 0.75rem;
  padding: 20 0;
 }
-.coder{
-  font-size: 40px;
-}
-.Mobphot{
-  font-size: 40px;
-}
-.RandA{
-  font-size: 40px;
-}
+
