@@ -54,10 +54,10 @@ h3{
 .first-para{
 font-size: 30px;
 }
-.bio-p, .qual-text, .MySkills{
+.bio-p, .qual-tex, .MySkills{
   font-size: 50px;;
 }
-.gitamText, .nariText, .schoolText, .kText{
+.gitamText, .nariText, .schoolText, .ktext{
   font-size: 20px;
 }
 
