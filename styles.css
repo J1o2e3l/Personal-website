@@ -54,36 +54,17 @@ h3{
 .first-para{
 font-size: 30px;
 }
-.bio-p{
+.bio-p, .qual-text, .MySkills{
   font-size: 50px;;
 }
-.qual-tex{
-  font-size: 50px;
-}
-.MySkills{
-  font-size: 50px;
-}
-.gitamText{
+.gitamText, .nariText, .schoolText, .kText{
   font-size: 20px;
 }
-.nariText{
-  font-size: 20px;
-}
-.schoolText{
-  font-size: 20px;
-}
-.Btext{
+
+.Btext, .Shtext, .Htext, .Hstext, .Mtext{
   font-size: 30px;
 }
-.Shtext{
-  font-size: 30px;
-}
-.Htext{
-  font-size: 30px;
-}
-.Hstext{
-  font-size: 30px;
-}
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
